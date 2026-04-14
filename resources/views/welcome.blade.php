@@ -51,7 +51,7 @@
     </section>
 
     <section id="projects" class="section">
-        <h2 class="section-title" data-aos="fade-up">Projets réalisés</h2>
+        <h2 class="section-title" data-aos="fade-up">Projets réalisés !</h2>
         <div class="projects-container">
             @foreach ($projects as $project)
                 <div class="project-card">
