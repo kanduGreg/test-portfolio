@@ -26,7 +26,7 @@
                         Je suis <strong>Gregory KANDU</strong>, étudiant passionné en <strong>Génie Logiciel</strong>
                         à l'<strong>Université Protestante de Lubumbashi (UPL)</strong>.
                         Actuellement en deuxième année (BAC 2), je me spécialise dans la conception et
-                        le développement d'applications web et desktop. Greg le test marche avec succes !
+                        le développement d'applications web et desktop.
                     </p>
                     <p>
                         Mon objectif est de devenir un <strong>Ingénieur Full-Stack</strong> accompli,
